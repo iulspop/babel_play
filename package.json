@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.12.10"
+  }
+}
